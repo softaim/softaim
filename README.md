@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Ethical Hacking (OSCP)
 - 💞️ I’m looking to collaborate with cyber Security specilist 
 - 📫 Contact me on this mails ( admin@gkaim.com )
+- 👀 My Financial Site => https://stocksaim.com
+- 👀 My Educational blog => https://gkaim.com
+  
 
 <!---
 softaim/softaim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
